@@ -36,7 +36,7 @@ AlphaFold is an AI tool for accurately modelling proteins, using evolutionary an
 
 **Conformation Analysis: Crystal Structures Vs Modeling Techniques**
 
-The models created by homology modelling and AlphaFold for EGFR were visualised using PyMOL and compared to the Protein Data Bank (PDB) crystal structures of EGFR \[**2EB2** (Yoshikawa *et al.,* 2012)\], \[**5WB7** (Freed *et al*., 2017)\] and \[**5UGB** (Planken *et al.,*2017)\]. The alignment and RMSD (Root Mean Square Deviation) measurements were then conducted to assess the degree of correspondence between the predicted models and the experimentally determined structures.
+The models created by homology modelling and AlphaFold for EGFR were visualised using PyMOL and compared to the Protein Data Bank (PDB) crystal structures of EGFR \[**2EB2** (Yoshikawa *et al.,* 2012)\], \[**5WB7** (Freed *et al*., 2017)\] and \[**5UGB** (Planken *et al.,* 2017)\]. The alignment and RMSD (Root Mean Square Deviation) measurements were then conducted to assess the degree of correspondence between the predicted models and the experimentally determined structures.
 
       I.          **Homology Modeling**:
 
