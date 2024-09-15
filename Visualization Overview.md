@@ -54,7 +54,7 @@ The models created by homology modelling and AlphaFold for EGFR were visualised 
 
   
 
-**a.**     **5WB7**
+**b.**     **5WB7**
 
 Ø  Aligning the homology model with 5WB7 resulted in an RMSD of 32.493Å (219 to 219 atoms).
 
@@ -63,14 +63,14 @@ The models created by homology modelling and AlphaFold for EGFR were visualised 
 ![Homology Modeling 5WB7](https://github.com/user-attachments/assets/c68b666d-daeb-40a9-a41d-5e9dd54ccec9)
 **Figure 2**: Alignment of the EGFR Homology model with 5WB7 (Crystal structure of the epidermal growth factor receptor extracellular region in complex with epiregulin).
 
-**a.**     **5UGB**
+**c.**     **5UGB**
 
 Ø  Aligning the Homology model with 5UGB in an **antagonist** state resulted in an RMSD of 0.309 Å (248 to 248 atoms).
 
 ![Homology Modeling 5UGB](https://github.com/user-attachments/assets/eab4c71e-43ee-4a00-82cf-5630488681a9)
 **Figure 3**: Alignment of the EGFR Homology model with 5UGB (Crystal structure of the EGFR kinase domain in complex with 4-(4-{\[2-{\[(3S)-1-acetylpyrrolidin-3-yl\] amino}-9-(propan-2-yl)-9H-purin-6-yl\] amino} phenyl)-1-methylpiperazin-1-ium).
 
-      **I.**          **AlphaFold**
+      **II.**          **AlphaFold**
 
 **a.**     **2EB2**
 
@@ -92,7 +92,7 @@ The models created by homology modelling and AlphaFold for EGFR were visualised 
 ![AlphaFold model 5WB7](https://github.com/user-attachments/assets/1b7e5169-1e31-4210-92f6-61847429a141)
 **Figure 5**: Alignment of the EGFR Alpha fold model with 5WB7 (Crystal structure of the epidermal growth factor receptor extracellular region in complex with epiregulin).
 
-**5UGB**
+**c.**   **5UGB**
 
 Ø  Aligning the AlphaFold model with 5UGB resulted in an RMSD of 0.275 (247 to 247 atoms).
 
