@@ -113,7 +113,7 @@ AlphaFold appears to be the more accurate and applicable method for modelling EG
 
 3.     AlphaFold is a tool that operates independently of templates, making it useful for proteins lacking high-quality templates or detecting areas with little sequence conservation, such as loops or disordered regions. This is particularly advantageous for EGFR, which has flexible domains that play a role in its activation.
 
-4.     AlphaFold's model predicts active protein conformations, crucial for drug research on EGFR's activated state, as it produced a conformation resembling an agonist-bound state.
+4.     AlphaFold's model predicts active protein conformations crucial for drug research on EGFR's activated state, as it produced a conformation resembling an agonist-bound state.
 
 **Conclusion**
 
