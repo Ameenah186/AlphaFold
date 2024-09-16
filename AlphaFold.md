@@ -18,13 +18,8 @@ AlphaFold's predictive capability in pharmaceutical research helps accelerate th
 
 Researchers from the University of Toronto, including Chemistry Nobel laureate Michael Levitt, and Insilico Medicine founder and CEO Alex Zhavoronkov \(Gershenson *et al.,* 2020\) used AlphaFold, an artificial intelligence-driven protein structure database, to create and produce a drug for hepatocellular carcinoma (HCC), the dominant form of primary liver cancer. A new target for HCC was identified, and a potent molecule capable of binding to it was synthesised without an empirically confirmed structure. These results were obtained within 30 days after selecting the target and synthesising only seven compounds.
 
-  
 
-**Drug Discovery**
 
-Drug discovery is the systematic process of identifying prospective novel therapeutic agents using computational, experimental, translational, and clinical models \(Qiu *et al.,* 2024 \) \(Ren*et al.,* 2023\). 
-
-  !(https://raw.githubusercontent.com/Ameenah186/AlphaFold/0ddc2b564f4cdd1f0e734faacf8077605b0147ab/DD%20image.png)
 
 **Limitations and Challenges of AlphaFold**
 
@@ -55,12 +50,6 @@ Borkakoti, N., and Thornton, J. M. (2023). AlphaFold2 protein structure predicti
 Gershenson, A., Gosavi, S., Faccioli, P., and Wintrode, P. L. (2020). Successes and challenges in simulating the folding of large proteins. *Journal of Biological Chemistry*, **295**(1): 15-33.
 
   
-
-Qiu, X., Li, H., Ver Steeg, G., and Godzik, A. (2024). Advances in AI for Protein Structure Prediction: Implications for Cancer Drug Discovery and Development. *Biomolecules*, **14**(3): 339. 
-
-  
-
-Ren, F., Ding, X., Zheng, M., Korzinkin, M., Cai, X., Zhu, W., and Zhavoronkov, A. (2023). AlphaFold accelerates artificial intelligence powered drug discovery: efficient discovery of a novel CDK20 small molecule inhibitor. *Chemical science* **14**(6): 1443-1452.
 
 Xiao, X., Min, J. L., Lin, W. Z., Liu, Z., Cheng, X., and Chou, K. C. (2015). iDrug-Target: predicting the interactions between drug compounds and target proteins in cellular networking via benchmark dataset optimization approach. *Journal of Biomolecular Structure and Dynamics*, **33**(10): 2221-2233.
 
