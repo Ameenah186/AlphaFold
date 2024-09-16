@@ -24,7 +24,7 @@ Researchers from the University of Toronto, including Chemistry Nobel laureate M
 
 Drug discovery is the systematic process of identifying prospective novel therapeutic agents using computational, experimental, translational, and clinical models \(Qiu *et al.,* 2024 \) \(Ren*et al.,* 2023\). 
 
-  https://raw.githubusercontent.com/Ameenah186/AlphaFold/0ddc2b564f4cdd1f0e734faacf8077605b0147ab/DD%20image.png
+  !(https://raw.githubusercontent.com/Ameenah186/AlphaFold/0ddc2b564f4cdd1f0e734faacf8077605b0147ab/DD%20image.png)
 
 **Limitations and Challenges of AlphaFold**
 
