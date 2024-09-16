@@ -1,6 +1,6 @@
-ALPHA FOLD
+**ALPHA FOLD**
 
-Overview 
+**Overview** 
 
 AlphaFold is a Google DeepMind AI system that predicts a protein's 3D shape based on its amino acid sequence via attraction and repulsion. The most recent database release contains over 200 million entries, providing broad coverage of UniProt, the standard repository of protein sequences and annotations.
 
@@ -8,31 +8,29 @@ It was first introduced at CASP13 in 2018, followed by AlphaFold 2 in 2020, and 
 
   
 
-Benefits of AlphaFold
+**Benefits of AlphaFold**
 
 AlphaFold's predictive capability in pharmaceutical research helps accelerate the process by accurately predicting protein structures. This presents new opportunities in drug design and an understanding of protein-protein interactions. While traditional approaches are expensive and time-consuming, AlphaFold simplifies the procedure so researchers can concentrate on creating effective medication candidates and enhancing drug design.
 
   
 
-Research Work on AlphaFold
+**Research Work on AlphaFold**
 
-Researchers from the University of Toronto, including Chemistry Nobel laureate Michael Levitt, and Insilico Medicine founder and CEO Alex Zhavoronkov \[4\] used AlphaFold, an artificial intelligence-driven protein structure database, to create and produce a drug for hepatocellular carcinoma (HCC), the dominant form of primary liver cancer. A new target for HCC was identified, and a potent molecule capable of binding to it was synthesised without an empirically confirmed structure. These results were obtained within 30 days after selecting the target and synthesising only seven compounds.
+Researchers from the University of Toronto, including Chemistry Nobel laureate Michael Levitt, and Insilico Medicine founder and CEO Alex Zhavoronkov \(Gershenson *et al.,* 2020\) used AlphaFold, an artificial intelligence-driven protein structure database, to create and produce a drug for hepatocellular carcinoma (HCC), the dominant form of primary liver cancer. A new target for HCC was identified, and a potent molecule capable of binding to it was synthesised without an empirically confirmed structure. These results were obtained within 30 days after selecting the target and synthesising only seven compounds.
 
   
 
 Drug Discovery
 
-Drug discovery is the systematic process of identifying prospective novel therapeutic agents using computational, experimental, translational, and clinical models \[5\] \[6\]. 
+Drug discovery is the systematic process of identifying prospective novel therapeutic agents using computational, experimental, translational, and clinical models \(Qiu *et al.,* 2024 \] \(Ren*et al.,* 2023\). 
 
   
 
-Qui et al., 2024
+**Limitations and Challenges of AlphaFold**
 
-Limitations and Challenges of AlphaFold
+ AlphaFold 2 (AF2) has shown excellent accuracy in three-dimensional protein structure prediction, particularly when multiple homolog sequences are present in sequence databases. However, it demands large computing resources, which may make it inaccessible to researchers with limited skills \(Blanco-Gonzalez *et al.,* 2023\). Drug discovery and development have faced several challenges due to the difficulty of ligand-induced folding, especially in intrinsically disordered proteins \( Borkakoti *et al.,* 2023\). AF2 mostly predicts a protein's single static state, neglecting dynamic conformational changes essential for drug interaction and enzyme efficiency. To handle binding-induced folding in naturally disordered areas, Fernández (2020) developed a deep-learning method. Nevertheless, addressing the conformational change caused by drug folding in proteins with many domains or implicated in protein-protein interactions remains challenging \[4\].
 
- Alphafold 2 (AF2) has shown excellent accuracy in three-dimensional protein structure prediction, particularly when multiple homolog sequences are present in sequence databases. However, it demands large computing resources, which may make it inaccessible to researchers with limited skills \[1\]. Drug discovery and development have faced several challenges due to the difficulty of ligand-induced folding, especially in intrinsically disordered proteins \[2\]. AF2 mostly predicts a protein's single static state, neglecting dynamic conformational changes essential for drug interaction and enzyme efficiency. To handle binding-induced folding in naturally disordered areas, Fernández (2020) developed a deep-learning method \[3\]. Nevertheless, addressing the conformational change caused by drug folding in proteins with many domains or implicated in protein-protein interactions remains challenging \[4\].
-
-Conclusion
+**Conclusion**
 
 AlphaFold's innovative approach could transform protein research, unlocking secrets and paving the way for innovative therapies.
 
@@ -40,7 +38,7 @@ AF2's protein structure prediction technology can accelerate cancer drug develop
 
   
 
-REFERENCES
+**References**
 
 Blanco-Gonzalez, A., Cabezon, A., Seco-Gonzalez, A., Conde-Torres, D., Antelo-Riveiro, P., Pineiro, A., and Garcia-Fandino, R. (2023). The role of AI in drug discovery: challenges, opportunities, and strategies. Pharmaceuticals, 16(6): 891.
 
